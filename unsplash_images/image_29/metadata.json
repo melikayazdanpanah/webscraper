@@ -1,6 +1,9 @@
 {
-    "image_name": "image.jpg",
-    "image_path": "unsplash_images\\image_29\\image.jpg",
-    "image_url": "https://images.unsplash.com/profile-1711603776258-8239a49da2f9image?bg=fff&crop=faces&dpr=1&h=32&w=32&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    "tags": []
+    "url": "https://images.unsplash.com/profile-1680124855887-20aae6d9000d?bg=fff&crop=faces&dpr=1&h=32&w=32&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "format": "JPEG",
+    "size": [
+        32,
+        32
+    ],
+    "mode": "RGB"
 }

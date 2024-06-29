@@ -1,1 +1,9 @@
-{}
+{
+    "url": "https://unsplash-assets.imgix.net/unsplashplus/asset-plus-018.jpg?dpr=1&h=304&w=304&crop=focalpoint&fp-y=0.51&auto=format&fit=crop&q=60",
+    "format": "JPEG",
+    "size": [
+        304,
+        304
+    ],
+    "mode": "RGB"
+}

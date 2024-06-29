@@ -1,6 +1,9 @@
 {
-    "image_name": "image.jpg",
-    "image_path": "unsplash_images\\image_49\\image.jpg",
-    "image_url": "https://images.unsplash.com/photo-1718205563635-27b4b7873d79?w=100&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D",
-    "tags": []
+    "url": "https://images.unsplash.com/photo-1719046341462-d65e03c776ab?w=100&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D",
+    "format": "JPEG",
+    "size": [
+        100,
+        75
+    ],
+    "mode": "RGB"
 }

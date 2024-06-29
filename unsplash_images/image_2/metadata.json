@@ -1,1 +1,9 @@
-{}
+{
+    "url": "https://unsplash-assets.imgix.net/unsplashplus/asset-plus-004.jpg?dpr=1&h=304&w=304&crop=faces&auto=format&fit=crop&q=60",
+    "format": "JPEG",
+    "size": [
+        304,
+        304
+    ],
+    "mode": "RGB"
+}

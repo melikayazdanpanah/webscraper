@@ -1,6 +1,9 @@
 {
-    "image_name": "image.jpg",
-    "image_path": "unsplash_images\\image_11\\image.jpg",
-    "image_url": "https://unsplash-assets.imgix.net/unsplashplus/asset-plus-018.jpg?dpr=1&h=168&w=340&auto=format&fit=crop&q=60",
-    "tags": []
+    "url": "https://unsplash-assets.imgix.net/unsplashplus/asset-plus-005.jpg?dpr=1&h=168&w=340&crop=faces&auto=format&fit=crop&q=60",
+    "format": "JPEG",
+    "size": [
+        340,
+        168
+    ],
+    "mode": "RGB"
 }
