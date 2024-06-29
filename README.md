@@ -60,8 +60,7 @@ format: Image format (e.g., JPEG, PNG).
 size: Dimensions of the image (width, height).
 mode: Color mode of the image (e.g., RGB, CMYK).
 tags: Descriptive tags obtained from PhotoTag.ai API.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Acknowledgements
 Unsplash for providing high-quality images.
