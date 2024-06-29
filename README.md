@@ -1,4 +1,4 @@
-Unsplash Image Downloader and Metadata Extractor
+#Unsplash Image Downloader and Metadata Extractor
 This repository contains a Python script that downloads images from Unsplash, extracts metadata, updates the metadata with tags from PhotoTag.ai, and compares the durations of different processing steps.
 
 Features
